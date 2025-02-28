@@ -13,7 +13,17 @@ If you want to explore this further, put your creativity to work and experiment 
    ```bash
    git clone https://github.com/AbhayAL1/Phishy.git
    ```
+## Structure
+Phishing/    
+│── Public/  
+│  ㅤㅤ│── index.html  
+│  ㅤㅤ│── script.js  
+│── server.js
 
+1. Create a main directory named `Phishing`.  
+2. Copy `script.js` into the `Phishing` directory.  
+3. Inside `Phishing`, create a subdirectory named `Public`.  
+4. Copy `index.html` and `script.js` into the `Public` directory.
    
 ## How To Use
 
